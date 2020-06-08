@@ -2,6 +2,8 @@
 
 I am a PhD student in Computer Science at Université Côte d'Azur, working on the WIMMICS team at Inria (Sophia Antipolis)
 
+My field of research is Explainable Artificial Intellgience, 
+
 You can use the [editor on GitHub](https://github.com/halliwelln/halliwelln.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -9,6 +11,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```markdown
+Research interests:
+-Explainable Artificial Intelligence
+-Knowledge Graph Embeddings
+-Machine Learning
+```
 
 ```markdown
 Syntax highlighted code block
