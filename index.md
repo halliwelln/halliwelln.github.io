@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+### Nicholas Halliwell
 
 I am a PhD student in Computer Science at Université Côte d'Azur, working on the WIMMICS team at Inria in Sophia Antipolis, France.
 
