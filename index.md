@@ -14,6 +14,7 @@ My LinkedIn page can found [here](https://www.linkedin.com/in/nicholas-halliwell
 -Machine Learning
 ```
 
+```markdown
 Address
 Polytech'Nice-Sophia
 Site des Templiers
@@ -21,3 +22,4 @@ Site des Templiers
 06560 Sophia-Antipolis, FRANCE
 
 Email: [nicholas.halliwell@inria.fr](nicholas.halliwell@inria.fr)
+```
