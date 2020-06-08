@@ -16,8 +16,8 @@ Email: [nicholas.halliwell@inria.fr](nicholas.halliwell@inria.fr)
 -Machine Learning
 ```
 
+### Address
 ```markdown
-Address:
 Polytech Nice-Sophia
 Site des Templiers
 930, Route des Colles 
