@@ -1,9 +1,10 @@
 ## Welcome to GitHub Pages
 
-I am a PhD student in Computer Science at Université Côte d'Azur, working on the WIMMICS team at Inria (Sophia Antipolis)
+I am a PhD student in Computer Science at Université Côte d'Azur, working on the WIMMICS team at Inria in Sophia Antipolis, France.
 
 My field of research is Explainable Artificial Intellgience. 
 
+My LinkedIn page can found [here](https://www.linkedin.com/in/nicholas-halliwell-086324100/)
 You can use the [editor on GitHub](https://github.com/halliwelln/halliwelln.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
