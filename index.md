@@ -16,8 +16,8 @@ Email: [nicholas.halliwell@inria.fr](nicholas.halliwell@inria.fr)
 ```
 
 ```markdown
-Address 
-Polytech'Nice-Sophia
+Address:
+Polytech Nice-Sophia
 Site des Templiers
 930, Route des Colles 
 06560 Sophia-Antipolis, FRANCE
