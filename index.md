@@ -8,7 +8,7 @@ My field of research is Explainable Artificial Intellgience. More specifically, 
 [Github](https://github.com/halliwelln)  
 [Twitter](https://twitter.com/halliwelln06)  
 [Google Scholar](https://scholar.google.com/citations?user=TM1ZL9IAAAAJ&hl=en&oi=ao) 
-[Kaggle] (https://www.kaggle.com/nicholashalliwell)
+[Kaggle](https://www.kaggle.com/nicholashalliwell)
 
 Email: [nicholas.halliwell@inria.fr](nicholas.halliwell@inria.fr)
 
