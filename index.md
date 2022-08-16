@@ -41,3 +41,14 @@ URL [https://hal.archives-ouvertes.fr/hal-03591012](https://hal.archives-ouverte
 Knowledge Graphs. 
 In International Conference on Knowledge Capture, Virtual Event, United States, Dec. 2021b.
 URL [https://hal.archives-ouvertes.fr/hal-03402766](https://hal.archives-ouvertes.fr/hal-03402766)
+
+- N. Halliwell, F. Gandon, and F. Lecue. A Simplified Benchmark for Non-
+ambiguous Explanations of Knowledge Graph Link Prediction using Relational
+Graph Convolutional Networks. 
+International Semantic Web Conference, Oct.2021a. 
+URL https://hal.archives-ouvertes.fr/hal-03339562. Poster
+
+- N. Halliwell, F. Gandon, and F. Lecue. Linked Data Ground Truth for Quantitative and Qualitative Evaluation of Explanations for Relational Graph Convolutional Network Link Prediction on Knowledge Graphs. 
+In International Conference on Web Intelligence and Intelligent Agent Technology, Melbourne, Australia, Dec. 2021c. 
+URL https://hal.archives-ouvertes.fr/hal-03430113
+
