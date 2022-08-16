@@ -31,7 +31,7 @@ URL [https://hal.archives-ouvertes.fr/hal-03454121](https://hal.archives-ouverte
 - N. Halliwell, F. Gandon, and F. Lecue. A Simplified Benchmark for Ambiguous Explanations of Knowledge Graph Link Prediction using Relational Graph
 Convolutional Networks. 
 36th AAAI Conference on Artificial Intelligence, Feb. 2022a.
-URL [https://hal.archives-ouvertes.fr/hal-03434544](https://hal.archives-ouvertes.fr/hal-03434544). Poster
+URL [https://hal.archives-ouvertes.fr/hal-03434544](https://hal.archives-ouvertes.fr/hal-03434544).
 
 - N. Halliwell, F. Gandon, F. Lecue, and S. Villata. The Need for Empirical Evaluation of Explanation Quality. 
 In AAAI 2022 - Workshop on Explainable Agency in Artificial Intelligence, Vancouver, Canada, Feb. 2022b. 
@@ -40,15 +40,15 @@ URL [https://hal.archives-ouvertes.fr/hal-03591012](https://hal.archives-ouverte
 - N. Halliwell, F. Gandon, and F. Lecue. User Scored Evaluation of Non-Unique Explanations for Relational Graph Convolutional Network Link Prediction on
 Knowledge Graphs. 
 In International Conference on Knowledge Capture, Virtual Event, United States, Dec. 2021b.
-URL [https://hal.archives-ouvertes.fr/hal-03402766](https://hal.archives-ouvertes.fr/hal-03402766)
+URL [https://hal.archives-ouvertes.fr/hal-03402766](https://hal.archives-ouvertes.fr/hal-03402766).
 
 - N. Halliwell, F. Gandon, and F. Lecue. A Simplified Benchmark for Non-
 ambiguous Explanations of Knowledge Graph Link Prediction using Relational
 Graph Convolutional Networks. 
 International Semantic Web Conference, Oct.2021a. 
-URL https://hal.archives-ouvertes.fr/hal-03339562. Poster
+URL [https://hal.archives-ouvertes.fr/hal-03339562](https://hal.archives-ouvertes.fr/hal-03339562).
 
 - N. Halliwell, F. Gandon, and F. Lecue. Linked Data Ground Truth for Quantitative and Qualitative Evaluation of Explanations for Relational Graph Convolutional Network Link Prediction on Knowledge Graphs. 
 In International Conference on Web Intelligence and Intelligent Agent Technology, Melbourne, Australia, Dec. 2021c. 
-URL https://hal.archives-ouvertes.fr/hal-03430113
+URL [https://hal.archives-ouvertes.fr/hal-03430113](https://hal.archives-ouvertes.fr/hal-03430113).
 
