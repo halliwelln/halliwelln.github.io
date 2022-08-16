@@ -12,7 +12,7 @@ My PhD thesis involves constructing Knowledge Graph datasets with ground truth e
 [Google Scholar](https://scholar.google.com/citations?user=TM1ZL9IAAAAJ&hl=en&oi=ao)  
 [Kaggle](https://www.kaggle.com/nicholashalliwell)
 
-Email: [nicholas.halliwell@inria.fr](nicholas.halliwell@inria.fr)
+Email: [halliwelln@protonmail.com](halliwelln@protonmail.com)
 
 ### Research interests:
 
