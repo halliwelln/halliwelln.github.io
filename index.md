@@ -26,18 +26,21 @@ Email: [nicholas.halliwell@inria.fr](nicholas.halliwell@inria.fr)
 ### Publications
 ```markdown
 - N. Halliwell. Evaluating Explanations of Relational Graph Convolutional Network Link Predictions on Knowledge Graphs.
-In AAAI 2022 - 36th AAAI Conference on Artificial Intelligence, Vancouver, Canada, Feb. 2022. URL
-https://hal.archives-ouvertes.fr/hal-03454121
+In AAAI 2022 - 36th AAAI Conference on Artificial Intelligence, Vancouver, Canada, Feb. 2022. 
+URL [https://hal.archives-ouvertes.fr/hal-03454121](https://hal.archives-ouvertes.fr/hal-03454121)
 
 -N. Halliwell, F. Gandon, and F. Lecue. A Simplified Benchmark for Ambiguous Explanations of Knowledge Graph Link Prediction using Relational Graph
 Convolutional Networks. 
-36th AAAI Conference on Artificial Intelligence, Feb. 2022a. URL https://hal.archives-ouvertes.fr/hal-03434544. Poster
+36th AAAI Conference on Artificial Intelligence, Feb. 2022a.
+URL [https://hal.archives-ouvertes.fr/hal-03434544](https://hal.archives-ouvertes.fr/hal-03434544). Poster
 
 -N. Halliwell, F. Gandon, F. Lecue, and S. Villata. The Need for Empirical Evaluation of Explanation Quality. 
-In AAAI 2022 - Workshop on Explainable Agency in Artificial Intelligence, Vancouver, Canada, Feb. 2022b. URL https://hal.archives-ouvertes.fr/hal-03591012
+In AAAI 2022 - Workshop on Explainable Agency in Artificial Intelligence, Vancouver, Canada, Feb. 2022b. 
+URL [https://hal.archives-ouvertes.fr/hal-03591012](https://hal.archives-ouvertes.fr/hal-03591012)
 
 -N. Halliwell, F. Gandon, and F. Lecue. User Scored Evaluation of Non-Unique Explanations for Relational Graph Convolutional Network Link Prediction on
 Knowledge Graphs. 
-In International Conference on Knowledge Capture, Virtual Event, United States, Dec. 2021b. doi: 10.1145/3460210.3493557. URL https://hal.archives-ouvertes.fr/hal-03402766
+In International Conference on Knowledge Capture, Virtual Event, United States, Dec. 2021b. doi: 10.1145/3460210.3493557. 
+URL [https://hal.archives-ouvertes.fr/hal-03402766](https://hal.archives-ouvertes.fr/hal-03402766)
 
 ```
