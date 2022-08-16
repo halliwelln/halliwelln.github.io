@@ -23,10 +23,9 @@ Email: [nicholas.halliwell@inria.fr](nicholas.halliwell@inria.fr)
 -Link prediction
 ```
 
-### Address
+### Publications
 ```markdown
-Polytech Nice-Sophia
-Site des Templiers
-930, Route des Colles 
-06560 Sophia-Antipolis, FRANCE
+N. Halliwell. Evaluating Explanations of Relational Graph Convolutional Network Link Predictions on Knowledge Graphs. In AAAI 2022 - 36th AAAI
+Conference on Artificial Intelligence, Vancouver, Canada, Feb. 2022. URL
+https://hal.archives-ouvertes.fr/hal-03454121
 ```
