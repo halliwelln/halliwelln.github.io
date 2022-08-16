@@ -24,7 +24,6 @@ Email: [nicholas.halliwell@inria.fr](nicholas.halliwell@inria.fr)
 ```
 
 ### Publications
-```markdown
 - N. Halliwell. Evaluating Explanations of Relational Graph Convolutional Network Link Predictions on Knowledge Graphs.
 In AAAI 2022 - 36th AAAI Conference on Artificial Intelligence, Vancouver, Canada, Feb. 2022. 
 URL [https://hal.archives-ouvertes.fr/hal-03454121](https://hal.archives-ouvertes.fr/hal-03454121)
@@ -42,5 +41,3 @@ URL [https://hal.archives-ouvertes.fr/hal-03591012](https://hal.archives-ouverte
 Knowledge Graphs. 
 In International Conference on Knowledge Capture, Virtual Event, United States, Dec. 2021b. doi: 10.1145/3460210.3493557. 
 URL [https://hal.archives-ouvertes.fr/hal-03402766](https://hal.archives-ouvertes.fr/hal-03402766)
-
-```
