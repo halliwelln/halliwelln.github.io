@@ -52,3 +52,7 @@ URL [https://hal.archives-ouvertes.fr/hal-03339562](https://hal.archives-ouverte
 In International Conference on Web Intelligence and Intelligent Agent Technology, Melbourne, Australia, Dec. 2021c. 
 URL [https://hal.archives-ouvertes.fr/hal-03430113](https://hal.archives-ouvertes.fr/hal-03430113).
 
+N. Halliwell, F. Gandon, and F. Lecue. Impact of Injecting Ground Truth Explanations on Relational Graph Convolutional Networks and their Explanation
+Methods for Link Prediction on Knowledge Graphs. In International Conference on Web Intelligence and Intelligent Agent Technology, Niagara Falls, Canada, Nov. 2022b. URL [https://hal.archives-ouvertes.fr/hal-03771424](https://hal.archives-ouvertes.fr/hal-03771424).
+
+
