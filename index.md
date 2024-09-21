@@ -2,7 +2,7 @@
 
 I am an Applied Scientist intern at Amazon Luxembourg working on transportation execution.
 
-Previously I was a PhD student in Computer Science at Université Côte d'Azur, on the WIMMICS team at Inria Sophia Antipolis, France.
+Previously I was a PhD student in Computer Science at Université Côte d'Azur, on the WIMMICS team at Inria-Sophia Antipolis (France).
 
 My research interests include understanding and interpreting the decisions made by black box machine learning models.
 
