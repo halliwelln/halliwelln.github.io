@@ -22,7 +22,7 @@ Email: [halliwelln@protonmail.com](halliwelln@protonmail.com)
 -Explainable AI
 -Machine Learning
 -Deep Learning
--Link prediction
+-AGI
 ```
 
 ### Publications
