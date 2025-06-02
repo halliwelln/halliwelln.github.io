@@ -28,35 +28,38 @@ Email: [halliwelln@protonmail.com](halliwelln@protonmail.com)
 ```
 
 ### Publications
-- N. Halliwell, F. Gandon, and F. Lecue. A Simplified Benchmark for Ambiguous Explanations of Knowledge Graph Link Prediction using Relational Graph
-Convolutional Networks. 
-36th AAAI Conference on Artificial Intelligence, Feb. 2022a.
-URL [https://hal.archives-ouvertes.fr/hal-03434544](https://hal.archives-ouvertes.fr/hal-03434544).
 
-- N. Halliwell. Evaluating Explanations of Relational Graph Convolutional Network Link Predictions on Knowledge Graphs.
-In AAAI 2022 - 36th AAAI Conference on Artificial Intelligence, Vancouver, Canada, Feb. 2022. 
-URL [https://hal.archives-ouvertes.fr/hal-03454121](https://hal.archives-ouvertes.fr/hal-03454121).
+- **Nicholas Halliwell**, Fabien Gandon, Freddy Lecue (2021)  
+  *“User Scored Evaluation of Non-Unique Explanations for Relational Graph Convolutional Network Link Prediction”*  
+  *International Conference on Knowledge Capture*  
+  [Link](https://hal.archives-ouvertes.fr/hal-03402766)
 
-- N. Halliwell, F. Gandon, F. Lecue, and S. Villata. The Need for Empirical Evaluation of Explanation Quality. 
-In AAAI 2022 - Workshop on Explainable Agency in Artificial Intelligence, Vancouver, Canada, Feb. 2022b. 
-URL [https://hal.archives-ouvertes.fr/hal-03591012](https://hal.archives-ouvertes.fr/hal-03591012).
+- **Nicholas Halliwell**, Fabien Gandon, Freddy Lecue, Serena Villata (2022)  
+  *“The Need for Empirical Evaluation of Explanation Quality”*  
+  *AAAI Workshop on Explainable Agency in Artificial Intelligence*  
+  [Link](https://hal.archives-ouvertes.fr/hal-03591012)
 
-- N. Halliwell, F. Gandon, and F. Lecue. User Scored Evaluation of Non-Unique Explanations for Relational Graph Convolutional Network Link Prediction on
-Knowledge Graphs. 
-In International Conference on Knowledge Capture, Virtual Event, United States, Dec. 2021b.
-URL [https://hal.archives-ouvertes.fr/hal-03402766](https://hal.archives-ouvertes.fr/hal-03402766).
+- **Nicholas Halliwell** (2022)  
+  *“Evaluating Explanations of Relational Graph Convolutional Network Link Predictions on Knowledge Graphs”*  
+  *36th AAAI Conference on Artificial Intelligence*  
+  [Link](https://hal.archives-ouvertes.fr/hal-03454121)
 
-- N. Halliwell, F. Gandon, and F. Lecue. A Simplified Benchmark for Non-
-ambiguous Explanations of Knowledge Graph Link Prediction using Relational
-Graph Convolutional Networks. 
-International Semantic Web Conference, Oct.2021a. 
-URL [https://hal.archives-ouvertes.fr/hal-03339562](https://hal.archives-ouvertes.fr/hal-03339562).
+- **Nicholas Halliwell**, Fabien Gandon, Freddy Lecue (2022)  
+  *“A Simplified Benchmark for Ambiguous Explanations of Knowledge Graph Link Prediction using Relational Graph Convolutional Networks”*  
+  *36th AAAI Conference on Artificial Intelligence*  
+  [Link](https://hal.archives-ouvertes.fr/hal-03434544)
+  
+- **Nicholas Halliwell**, Fabien Gandon, Freddy Lecue (2022)  
+  *“Impact of Injecting Ground Truth Explanations on Relational Graph Convolutional Networks”*  
+  *International Conference on Web Intelligence and Intelligent Agent Technology*  
+  [Link](https://hal.archives-ouvertes.fr/hal-03771424)
 
-- N. Halliwell, F. Gandon, and F. Lecue. Linked Data Ground Truth for Quantitative and Qualitative Evaluation of Explanations for Relational Graph Convolutional Network Link Prediction on Knowledge Graphs. 
-In International Conference on Web Intelligence and Intelligent Agent Technology, Melbourne, Australia, Dec. 2021c. 
-URL [https://hal.archives-ouvertes.fr/hal-03430113](https://hal.archives-ouvertes.fr/hal-03430113).
+- **Nicholas Halliwell**, Fabien Gandon, Freddy Lecue (2021)  
+  *“A Simplified Benchmark for Non-Ambiguous Explanations of Knowledge Graph Link Prediction”*  
+  *International Semantic Web Conference*  
+  [Link](https://hal.archives-ouvertes.fr/hal-03339562)
 
-- N. Halliwell, F. Gandon, and F. Lecue. Impact of Injecting Ground Truth Explanations on Relational Graph Convolutional Networks and their Explanation
-Methods for Link Prediction on Knowledge Graphs. In International Conference on Web Intelligence and Intelligent Agent Technology, Niagara Falls, Canada, Nov. 2022b. URL [https://hal.archives-ouvertes.fr/hal-03771424](https://hal.archives-ouvertes.fr/hal-03771424).
-
-
+- **Nicholas Halliwell**, Fabien Gandon, Freddy Lecue (2021)  
+  *“Linked Data Ground Truth for Evaluation of Explanations in Knowledge Graph Link Prediction”*  
+  *International Conference on Web Intelligence and Intelligent Agent Technology*  
+  [Link](https://hal.archives-ouvertes.fr/hal-03430113)
