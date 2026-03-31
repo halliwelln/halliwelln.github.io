@@ -14,7 +14,7 @@ In my free time, I write a basketball data science blog: [Backcourt Analytics](h
 [Twitter](https://twitter.com/halliwelln06)  
 [Google Scholar](https://scholar.google.com/citations?user=TM1ZL9IAAAAJ&hl=en&oi=ao)  
 [Github](https://github.com/halliwelln)  
-
+[Kaggle](https://www.kaggle.com/nicholashalliwell)  
 
 Email: [halliwelln@protonmail.com](halliwelln@protonmail.com)
 
